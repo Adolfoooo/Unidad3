@@ -31,7 +31,7 @@ export class AppComponent {
     });
   }
   setupPush() {
-    this. oneSignal.startInit('0cb346a3-5bbf-4bfe-b74f-c5ba60b4b5d4', '123119546911');
+    this. oneSignal.startInit('8cf94a83-2415-4873-ae77-b32c1a115394', '72694479498');
     this. oneSignal.inFocusDisplaying(this.oneSignal.OSInFocusDisplayOption.None);
     this. oneSignal.handleNotificationReceived().subscribe(data => {
       const msg = data.payload.body;

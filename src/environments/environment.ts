@@ -4,14 +4,14 @@
 
 export const environment = {
   production: true ,
-  firebaseConfig: {
-    apiKey: 'AIzaSyB-kYRbBamn6R-dEz_SiOlLp4au4VNgGVc',
-    authDomain: 'sports-d859c.firebaseapp.com',
-    databaseURL: 'https://sports-d859c.firebaseio.com',
-    projectId: 'sports-d859c',
-    storageBucket: 'sports-d859c.appspot.com',
-    messagingSenderId: '5659703214',
-    appId: '1:5659703214:web:354bf33f40b75355'
+  firebaseConfig : {
+    apiKey: 'AIzaSyBLcfUsjEkFwtuf6zNudrhNm2ivBuoIY4E',
+    authDomain: 'noti-4548c.firebaseapp.com',
+    databaseURL: 'https://noti-4548c.firebaseio.com',
+    projectId: 'noti-4548c',
+    storageBucket: 'noti-4548c.appspot.com',
+    messagingSenderId: '72694479498',
+    appId: '1:72694479498:web:613d96564df3b961'
   }
 };
 
